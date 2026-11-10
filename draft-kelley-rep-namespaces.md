@@ -2,7 +2,7 @@
 title: "Namespaces for the Robots Exclusion Protocol"
 abbrev: "REP Namespaces"
 category: std
-docname: draft-kelley-rep-namespaces-00
+docname: draft-kelley-rep-namespaces-latest
 updates: 9309
 submissiontype: IETF
 v: 3
