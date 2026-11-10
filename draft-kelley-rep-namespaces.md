@@ -6,7 +6,7 @@ docname: draft-kelley-rep-namespaces-latest
 updates: 9309
 submissiontype: IETF
 v: 3
-area: "Web and Internet Transport"
+# area: "Web and Internet Transport"
 keyword:
   - robots.txt
   - crawler
